@@ -6,7 +6,7 @@
 
 <img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300" />
 
-- 🔭 I'm a web developer</b> & <b> a Machine Learning Enthusiast  </b>
+- 🔭 I'm a web developer</b> & <b> a Machine Learning Enthusiast </b>
 - 🌱 Currently Learning <b> Generative AI </b>
 - 🌱 Pursuing <b>B.Tech  Computer Science and Engineering (2nd Year)</b>
 - 👯 I’m looking to collaborate on Full Stack projects
